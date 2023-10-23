@@ -5,7 +5,8 @@ A decentralized car rental platform built on Binance Smart Chain would enable ca
 
 Demo: https://car-rental-app-five.vercel.app/
 
-Tutorial: [<img src="https://github.com/dmrdvn/Car-Rental-App/blob/main/Solidity%20ile%20Car%20Rental%20App%20-%20Youtube%20Kapak%20Go%CC%88rseli.png" width="50%">](https://www.youtube.com/watch?v=J_6UbL16_t4 "Soldiity ile Full-Stack dApp Geliştiriyoruz - Car Rental App")
+Tutorial: 
+[<img src="https://github.com/dmrdvn/Car-Rental-App/blob/main/Solidity%20ile%20Car%20Rental%20App%20-%20Youtube%20Kapak%20Go%CC%88rseli.png" width="100%">](https://www.youtube.com/watch?v=J_6UbL16_t4 "Soldiity ile Full-Stack dApp Geliştiriyoruz - Car Rental App")
 
 ## Prerequisites
 - Node.js
