@@ -1,7 +1,11 @@
-# Decentralized Car Rental Platform on Binance Smart Chain Testnet!
+# Decentralized Car Rental App on Binance Smart Chain Testnet!
 
 ## Overview
 A decentralized car rental platform built on Binance Smart Chain would enable car owners to register their vehicles on the platform and rent them out to users in a trustless and decentralized manner. The platform would leverage smart contracts to automate the rental process, handle payments, and ensure the security of user data. Users would be able to search for available cars, select rental dates, and complete transactions through the platform. The decentralized nature of the platform would eliminate the need for intermediaries, reducing transaction costs and increasing transparency.
+
+Demo: https://car-rental-app-five.vercel.app/
+
+Tutorial: [<img src="https://github.com/dmrdvn/Car-Rental-App/blob/main/Solidity%20ile%20Car%20Rental%20App%20-%20Youtube%20Kapak%20Go%CC%88rseli.png" width="50%">](https://www.youtube.com/watch?v=J_6UbL16_t4 "Soldiity ile Full-Stack dApp Geliştiriyoruz - Car Rental App")
 
 ## Prerequisites
 - Node.js
