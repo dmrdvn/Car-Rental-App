@@ -1,0 +1,1 @@
+export const rentalPlatformAddress = "0x632d912a4aAeb9ddd5294158857D8AeE61E35F7c"
